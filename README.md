@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jungso-gb" alt="jungso-gb" /></a> </p>
 
-- 🔭 I’m currently working on [MonopOtter](https://github.com/Jungso-GB/monopotter/tree/main)
+- 🔭 I’m currently working on [Otter-Management](https://github.com/Jungso-GB/otter-management)
 
 - 🌱 I’m currently learning **NodeJS**
 
